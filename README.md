@@ -7,8 +7,8 @@ Dev-Sweater is a full-stack E-commerce web application where users can purchase 
 ## Important Links
 
 - Deployed API: [Dev-Sweater API](https://dev-sweater-api.herokuapp.com/)
-- Deployed Client: [Dev-Sweater Client](https://team-project-ga.github.io/Dev-Sweater-Front/)
-- Client Repo: [Dev-Sweater-Front Repo](https://github.com/Team-Project-GA/Dev-Sweater-Front)
+- Deployed Client: [Dev-Sweater Client](https://miriam-ogbamichael.github.io/Dev-Sweater-Front/)
+- Client Repo: [Dev-Sweater-Front Repo](https://github.com/miriam-ogbamichael/Dev-Sweater-Front)
 
 ## Planning Story
 
