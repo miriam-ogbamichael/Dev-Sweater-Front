@@ -14,7 +14,7 @@ Dev-Sweater is a full-stack E-commerce web application where users can purchase 
 
 We started by creating the ERD, Wireframes and the user stories our applicatin needed. Using Agile Methodologies we conducted daily stand ups spearheaded by the SCRUM Master and the SCRUM Team Coordinator to plan all the sprints required for the successful completion of the project. We then created the API for Dev-Sweater before moving onto the client side of the application to test the API routes we created. After successful testing, we added styling to the client side and deployed both the API and the client of the application.
 
-#### Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
